@@ -29,6 +29,6 @@ C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.AI.Machin
 C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0\Windows.Services.TargetedContent.TargetedContentContract\1.0.0.0\Windows.Services.TargetedContent.TargetedContentContract.winmd
 -emitAnyForUnresolvedTypes
 -outFilePath
-c:\users\greee\onedrive\ドキュメント\gitkraken\javascript ミニアプリ\dentaku\bld\release\winrtrefs\winrtrefs-temp.d.ts
+c:\users\greee\onedrive\ドキュメント\gitkraken\javascript mini application\dentaku\bld\release\winrtrefs\winrtrefs-temp.d.ts
 -emitDocumentation
 -suppressWarningsForUnresolvedWindowsTypes
